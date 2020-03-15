@@ -1,5 +1,3 @@
 # Homeworks
 
 Homeworks EPAM
-
-finally
